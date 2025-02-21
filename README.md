@@ -418,7 +418,7 @@ if __name__ == '__main__':
 
 ---
 
-![image1](./image/image1.png)
+![image1](image/image1.png)
 
 </details>
 
@@ -427,7 +427,7 @@ if __name__ == '__main__':
 
 ---
 
-![image2](./image/image2.png)
+![image2](image/image2.png)
 </details>
 
 ### 总结
