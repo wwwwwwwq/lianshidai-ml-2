@@ -411,6 +411,25 @@ if __name__ == '__main__':
 ```
 </details>
 
+### 运行截图
+
+<details>
+<summary><strong>🖼️ 测试部分</strong></summary>
+
+---
+
+![image1](./image/image1.png)
+
+</details>
+
+<details>
+<summary><strong>📷 主体部分</strong></summary>
+
+---
+
+![image2](./image/image2.png)
+</details>
+
 ### 总结
 
 <details>
